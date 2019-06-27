@@ -1,0 +1,46 @@
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbprojResolveAssemblyReference.cache
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS_Stock_Report.Form1.resources
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS_Stock_Report.Resources.resources
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbproj.GenerateResource.Cache
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbproj.ResolveComReference.cache
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.exe.config
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.exe.manifest
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.application
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.exe
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.pdb
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.xml
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.exe.manifest
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.application
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.exe
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.xml
+C:\Users\AB\Desktop\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.pdb
+I:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.exe.config
+I:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbproj.ResolveComReference.cache
+I:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.exe
+I:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.xml
+I:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.pdb
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.exe.config
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbproj.ResolveComReference.cache
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.exe
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.xml
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.pdb
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbprojResolveAssemblyReference.cache
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS_Stock_Report.Form1.resources
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS_Stock_Report.Resources.resources
+F:\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbproj.GenerateResource.Cache
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.exe.config
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbproj.ResolveComReference.cache
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.exe
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.xml
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.pdb
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbprojResolveAssemblyReference.cache
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS_Stock_Report.Form1.resources
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS_Stock_Report.Resources.resources
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\AWS Stock Report.vbproj.GenerateResource.Cache
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.exe.manifest
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.application
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.exe
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.pdb
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\bin\Debug\ASW Stock Report.xml
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.exe.manifest
+C:\Users\TFS\Desktop\ASW V2\AWS Stock Project\AWS Stock Report\AWS Stock Report\obj\Debug\ASW Stock Report.application
