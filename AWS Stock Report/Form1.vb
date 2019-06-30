@@ -4,7 +4,7 @@ Imports System.Runtime.InteropServices
 
 Public Class Form1
     Private con As OleDbConnection
-    Public DBLocation As String '= "C:\Users\AB\Desktop\AWS Stock Project\"
+    Public DBLocation As String
     Public ReportLocation As String
     Public TemplateLocation As String
     Public numLargeBoxIn As Integer
@@ -117,7 +117,7 @@ Public Class Form1
                         SpareDays = 0
                     End Try
 
-                    If (DateIn <> Nothing And DateIn <= invDate) And (DateOut.Month = invDate.Month Or DateOut = Nothing) Then
+                    If (DateIn <> Nothing And DateIn <= invDate) And (DateOut = Nothing Or DateOut > invDate Or (DateOut < invDate And DateOut.Month = invDate.Month And DateOut.Year = invDate.Year)) Then
 
                         oDoc.Content.InsertAfter(SerialNumber & vbTab & vbTab)
                         'Delivery inbound
@@ -269,6 +269,7 @@ Public Class Form1
 
         DateTimePicker1.Format = DateTimePickerFormat.Custom
         DateTimePicker1.CustomFormat = "MMMMyyyy"
+        DateTimePicker1.Value = DateSerial(Year(Today), Month(Today), 0)
 
     End Sub
 
