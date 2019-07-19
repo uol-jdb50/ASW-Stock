@@ -39,6 +39,7 @@ Partial Class Form1
         Me.txtDB = New System.Windows.Forms.TextBox()
         Me.btnDBBrowse = New System.Windows.Forms.Button()
         Me.btnReportBrowse = New System.Windows.Forms.Button()
+        Me.btnSpareDaysReset = New System.Windows.Forms.Button()
         Me.StatusStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -85,10 +86,10 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(266, 235)
+        Me.Button1.Location = New System.Drawing.Point(199, 235)
         Me.Button1.Margin = New System.Windows.Forms.Padding(4)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(213, 63)
+        Me.Button1.Size = New System.Drawing.Size(280, 63)
         Me.Button1.TabIndex = 4
         Me.Button1.Text = "Generate Report"
         Me.Button1.UseVisualStyleBackColor = True
@@ -210,11 +211,22 @@ Partial Class Form1
         Me.btnReportBrowse.Text = "..."
         Me.btnReportBrowse.UseVisualStyleBackColor = True
         '
+        'btnSpareDaysReset
+        '
+        Me.btnSpareDaysReset.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!)
+        Me.btnSpareDaysReset.Location = New System.Drawing.Point(23, 235)
+        Me.btnSpareDaysReset.Name = "btnSpareDaysReset"
+        Me.btnSpareDaysReset.Size = New System.Drawing.Size(169, 63)
+        Me.btnSpareDaysReset.TabIndex = 11
+        Me.btnSpareDaysReset.Text = "Spare Days Reset"
+        Me.btnSpareDaysReset.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(492, 327)
+        Me.Controls.Add(Me.btnSpareDaysReset)
         Me.Controls.Add(Me.btnReportBrowse)
         Me.Controls.Add(Me.btnDBBrowse)
         Me.Controls.Add(Me.Label4)
@@ -258,4 +270,5 @@ Partial Class Form1
     Friend WithEvents txtDB As TextBox
     Friend WithEvents btnDBBrowse As Button
     Friend WithEvents btnReportBrowse As Button
+    Friend WithEvents btnSpareDaysReset As Button
 End Class
