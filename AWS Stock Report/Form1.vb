@@ -51,7 +51,7 @@ Public Class Form1
         con = New OleDb.OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0; Data Source=" & DBLocation & ";Persist Security Info=False;")
 
 
-        Dim prices As New OleDbCommand("SELECT * FROM Charges", con)
+        Dim prices As New OleDbCommand("SELECT * FROM [Fees and Charges]", con)
 
         Using con
             Try
